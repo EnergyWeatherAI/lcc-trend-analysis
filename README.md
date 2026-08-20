@@ -6,6 +6,8 @@ Currently supported data sources are:
 * ERA5 reanalysis
 * CERES satellite records
 
+Most of the bulk processing happens through the entrypoint scripts, whereas final analysis and visualization is done in the notebooks.
+
 ## License
 Apache License Version 2.0, see the [LICENSE file](LICENSE).
 
