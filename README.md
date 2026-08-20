@@ -10,8 +10,7 @@ Currently supported data sources are:
 Apache License Version 2.0, see the [LICENSE file](LICENSE).
 
 ## Developer
-Dr. Sasu Karttunen \
-BFH & TU Delft \
-<sasu.karttunen@bfh.ch> \
+Sasu Karttunen \
+TU Delft \
 <s.m.karttunen@tudelft.nl>
 
